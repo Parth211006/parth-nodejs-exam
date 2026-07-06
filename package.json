@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "express": "^5.2.1"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "body-parser": "^2.3.0",
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.7.3",
+    "react-router-dom": "^7.18.1"
+  }
+}
